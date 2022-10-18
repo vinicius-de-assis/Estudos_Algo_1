@@ -1,5 +1,8 @@
-/*Faça uma programa para imprimir na tela a seguinte imagem, onde a quantidade de * é informada pelo teclado noinício do programa
+/*EXERCÍCIO 4:    
+
+Faça uma programa para imprimir na tela a seguinte imagem, onde a quantidade de * é informada pelo teclado noinício do programa
 e deve ser ímpar. Por exemplose ovalor5 for ingormado a imagem deve ser assim:
+
     *
    ***
 *********
